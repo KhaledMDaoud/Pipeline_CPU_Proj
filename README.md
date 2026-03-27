@@ -4,7 +4,7 @@
 Design and implement a 32-bit 5-stage pipelined processor in Verilog, supporting a subset of RISC-V-style instructions. Built core modules for instruction fetch, decode, execute, memory, and write-back, along with pipeline registers, control logic, ALU, register file, immediate generation, and branch/flush handling; verified functionality using custom testbenches and simulation waveforms
 
 ### **Requirements**
-1. RISC-V Assembler 
+1. RISC-V Assembler\
     Build a RISC-V assembler using any high-level language. The assembler should work for the RISC-V instruction in the table below.  
  
 2. Core Processor Design\
