@@ -13,7 +13,7 @@ Design and implement a 32-bit 5-stage pipelined processor in Verilog, supporting
     c. The processor execution should be triggered on a positive edge.\
     d. To allow for Reading/Writing to memory and Register file during the same cycle, use the negative edge of the clock to trigger reading. 
  
-3. Performance Features\n
+3. Performance Features\
     a. Dynamic Branch Prediction: Design a simple 2-bit predictor to enhance branching accuracy.\
     b. Report the total number of cycles and instructions executed for the program and store the results in dedicated registers.
 
